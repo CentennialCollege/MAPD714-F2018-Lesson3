@@ -12,6 +12,25 @@
 		E92BB6172154774B009DC303 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E92BB6152154774B009DC303 /* Main.storyboard */; };
 		E92BB6192154774C009DC303 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E92BB6182154774C009DC303 /* Assets.xcassets */; };
 		E92BB61C2154774C009DC303 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E92BB61A2154774C009DC303 /* LaunchScreen.storyboard */; };
+		E92BB637215480F9009DC303 /* decimal in Resources */ = {isa = PBXBuildFile; fileRef = E92BB624215480F9009DC303 /* decimal */; };
+		E92BB638215480F9009DC303 /* ac in Resources */ = {isa = PBXBuildFile; fileRef = E92BB625215480F9009DC303 /* ac */; };
+		E92BB639215480F9009DC303 /* subtract in Resources */ = {isa = PBXBuildFile; fileRef = E92BB626215480F9009DC303 /* subtract */; };
+		E92BB63A215480F9009DC303 /* multiply in Resources */ = {isa = PBXBuildFile; fileRef = E92BB627215480F9009DC303 /* multiply */; };
+		E92BB63B215480F9009DC303 /* divide in Resources */ = {isa = PBXBuildFile; fileRef = E92BB628215480F9009DC303 /* divide */; };
+		E92BB63C215480F9009DC303 /* percent in Resources */ = {isa = PBXBuildFile; fileRef = E92BB629215480F9009DC303 /* percent */; };
+		E92BB63D215480F9009DC303 /* 9 in Resources */ = {isa = PBXBuildFile; fileRef = E92BB62A215480F9009DC303 /* 9 */; };
+		E92BB63E215480F9009DC303 /* 0 in Resources */ = {isa = PBXBuildFile; fileRef = E92BB62B215480F9009DC303 /* 0 */; };
+		E92BB63F215480F9009DC303 /* 7 in Resources */ = {isa = PBXBuildFile; fileRef = E92BB62C215480F9009DC303 /* 7 */; };
+		E92BB640215480F9009DC303 /* 6 in Resources */ = {isa = PBXBuildFile; fileRef = E92BB62D215480F9009DC303 /* 6 */; };
+		E92BB641215480F9009DC303 /* 1 in Resources */ = {isa = PBXBuildFile; fileRef = E92BB62E215480F9009DC303 /* 1 */; };
+		E92BB642215480F9009DC303 /* 8 in Resources */ = {isa = PBXBuildFile; fileRef = E92BB62F215480F9009DC303 /* 8 */; };
+		E92BB643215480F9009DC303 /* equals in Resources */ = {isa = PBXBuildFile; fileRef = E92BB630215480F9009DC303 /* equals */; };
+		E92BB644215480F9009DC303 /* add in Resources */ = {isa = PBXBuildFile; fileRef = E92BB631215480F9009DC303 /* add */; };
+		E92BB645215480F9009DC303 /* plusminus in Resources */ = {isa = PBXBuildFile; fileRef = E92BB632215480F9009DC303 /* plusminus */; };
+		E92BB646215480F9009DC303 /* 4 in Resources */ = {isa = PBXBuildFile; fileRef = E92BB633215480F9009DC303 /* 4 */; };
+		E92BB647215480F9009DC303 /* 3 in Resources */ = {isa = PBXBuildFile; fileRef = E92BB634215480F9009DC303 /* 3 */; };
+		E92BB648215480F9009DC303 /* 2 in Resources */ = {isa = PBXBuildFile; fileRef = E92BB635215480F9009DC303 /* 2 */; };
+		E92BB649215480F9009DC303 /* 5 in Resources */ = {isa = PBXBuildFile; fileRef = E92BB636215480F9009DC303 /* 5 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +41,25 @@
 		E92BB6182154774C009DC303 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E92BB61B2154774C009DC303 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E92BB61D2154774C009DC303 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E92BB624215480F9009DC303 /* decimal */ = {isa = PBXFileReference; lastKnownFileType = file; path = decimal; sourceTree = "<group>"; };
+		E92BB625215480F9009DC303 /* ac */ = {isa = PBXFileReference; lastKnownFileType = file; path = ac; sourceTree = "<group>"; };
+		E92BB626215480F9009DC303 /* subtract */ = {isa = PBXFileReference; lastKnownFileType = file; path = subtract; sourceTree = "<group>"; };
+		E92BB627215480F9009DC303 /* multiply */ = {isa = PBXFileReference; lastKnownFileType = file; path = multiply; sourceTree = "<group>"; };
+		E92BB628215480F9009DC303 /* divide */ = {isa = PBXFileReference; lastKnownFileType = file; path = divide; sourceTree = "<group>"; };
+		E92BB629215480F9009DC303 /* percent */ = {isa = PBXFileReference; lastKnownFileType = file; path = percent; sourceTree = "<group>"; };
+		E92BB62A215480F9009DC303 /* 9 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 9; sourceTree = "<group>"; };
+		E92BB62B215480F9009DC303 /* 0 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 0; sourceTree = "<group>"; };
+		E92BB62C215480F9009DC303 /* 7 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 7; sourceTree = "<group>"; };
+		E92BB62D215480F9009DC303 /* 6 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 6; sourceTree = "<group>"; };
+		E92BB62E215480F9009DC303 /* 1 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 1; sourceTree = "<group>"; };
+		E92BB62F215480F9009DC303 /* 8 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 8; sourceTree = "<group>"; };
+		E92BB630215480F9009DC303 /* equals */ = {isa = PBXFileReference; lastKnownFileType = file; path = equals; sourceTree = "<group>"; };
+		E92BB631215480F9009DC303 /* add */ = {isa = PBXFileReference; lastKnownFileType = file; path = add; sourceTree = "<group>"; };
+		E92BB632215480F9009DC303 /* plusminus */ = {isa = PBXFileReference; lastKnownFileType = file; path = plusminus; sourceTree = "<group>"; };
+		E92BB633215480F9009DC303 /* 4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 4; sourceTree = "<group>"; };
+		E92BB634215480F9009DC303 /* 3 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 3; sourceTree = "<group>"; };
+		E92BB635215480F9009DC303 /* 2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 2; sourceTree = "<group>"; };
+		E92BB636215480F9009DC303 /* 5 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 5; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,9 +97,36 @@
 				E92BB6152154774B009DC303 /* Main.storyboard */,
 				E92BB6182154774C009DC303 /* Assets.xcassets */,
 				E92BB61A2154774C009DC303 /* LaunchScreen.storyboard */,
+				E92BB623215480F9009DC303 /* Buttons */,
 				E92BB61D2154774C009DC303 /* Info.plist */,
 			);
 			path = "MAPD714-F2018-Lesson3";
+			sourceTree = "<group>";
+		};
+		E92BB623215480F9009DC303 /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				E92BB624215480F9009DC303 /* decimal */,
+				E92BB625215480F9009DC303 /* ac */,
+				E92BB626215480F9009DC303 /* subtract */,
+				E92BB627215480F9009DC303 /* multiply */,
+				E92BB628215480F9009DC303 /* divide */,
+				E92BB629215480F9009DC303 /* percent */,
+				E92BB62A215480F9009DC303 /* 9 */,
+				E92BB62B215480F9009DC303 /* 0 */,
+				E92BB62C215480F9009DC303 /* 7 */,
+				E92BB62D215480F9009DC303 /* 6 */,
+				E92BB62E215480F9009DC303 /* 1 */,
+				E92BB62F215480F9009DC303 /* 8 */,
+				E92BB630215480F9009DC303 /* equals */,
+				E92BB631215480F9009DC303 /* add */,
+				E92BB632215480F9009DC303 /* plusminus */,
+				E92BB633215480F9009DC303 /* 4 */,
+				E92BB634215480F9009DC303 /* 3 */,
+				E92BB635215480F9009DC303 /* 2 */,
+				E92BB636215480F9009DC303 /* 5 */,
+			);
+			path = Buttons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +187,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E92BB63F215480F9009DC303 /* 7 in Resources */,
+				E92BB643215480F9009DC303 /* equals in Resources */,
+				E92BB638215480F9009DC303 /* ac in Resources */,
 				E92BB61C2154774C009DC303 /* LaunchScreen.storyboard in Resources */,
+				E92BB647215480F9009DC303 /* 3 in Resources */,
+				E92BB63E215480F9009DC303 /* 0 in Resources */,
+				E92BB649215480F9009DC303 /* 5 in Resources */,
+				E92BB645215480F9009DC303 /* plusminus in Resources */,
+				E92BB63D215480F9009DC303 /* 9 in Resources */,
 				E92BB6192154774C009DC303 /* Assets.xcassets in Resources */,
+				E92BB63C215480F9009DC303 /* percent in Resources */,
+				E92BB63B215480F9009DC303 /* divide in Resources */,
+				E92BB641215480F9009DC303 /* 1 in Resources */,
+				E92BB642215480F9009DC303 /* 8 in Resources */,
+				E92BB63A215480F9009DC303 /* multiply in Resources */,
+				E92BB637215480F9009DC303 /* decimal in Resources */,
+				E92BB640215480F9009DC303 /* 6 in Resources */,
+				E92BB646215480F9009DC303 /* 4 in Resources */,
+				E92BB639215480F9009DC303 /* subtract in Resources */,
+				E92BB648215480F9009DC303 /* 2 in Resources */,
 				E92BB6172154774B009DC303 /* Main.storyboard in Resources */,
+				E92BB644215480F9009DC303 /* add in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
